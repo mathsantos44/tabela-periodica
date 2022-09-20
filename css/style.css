@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    color: white;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+main {
+    width: 1206px;
+    margin: auto;
+}
+
+.elemento {
+    width: 65px;
+    height: 65px;
+    background-color: black;
+    float: left;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 1px;
+    text-align: center;
+    font-size: 0.6em;
+    font-family: 'Nunito', sans-serif;
+}
+
+.vazio {
+    background-color: black;
+    float: left;
+    border-color: black;
+}
+
+.clear {
+    clear: both;
+}
+
+.familia1 {
+    border-color: #AAC75E;
+    color: #AAC75E;
+}
+.familia2 {
+    border-color: #62B2DE;
+    color: #62B2DE;
+}
+.familia3 {
+    border-color: #D3A853;
+    color: #D3A853;
+}
+.familia4 {
+    border-color: #B4AB40;
+    color: #B4AB40;
+}
+.familia5 {
+    border-color: #6BC2B7;
+    color: #6BC2B7;
+}
+.familia6 {
+    border-color: #97AE50;
+    color: #97AE50;
+}
+.familia7 {
+    border-color: #A6DCF8;
+    color: #A6DCF8;
+}
+.familia8 {
+    border-color: #A0B9B9;
+    color: #A0B9B9;
+}
+.familia9 {
+    border-color: #D69089;
+    color: #D69089;
+}
+.familia10 {
+    border-color: #90DAD8;
+    color: #90DAD8;
+}
+.familia11 {
+    border-color: #D9B1CC;
+    color: #D9B1CC;
+}
+
+.numero {
+    font-size: 0.9em;
+    text-align: left;
+    margin: 1px 0px 0px 3px;
+}
+
+.partecorte h2 {
+    padding-top: 15px;
+}
+
+.elemento h2 {
+    font-size: 2em;
+    margin-top: -5px;
+    text-transform: capitalize;
+}
+
+.elemento .nome {
+    margin-top: -5px;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+}
+
+.elemento .peso {
+    margin-top: 1;
+    font-size: 0.9em;
+}
+
+footer {
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}

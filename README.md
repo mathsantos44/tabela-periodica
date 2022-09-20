@@ -1,2 +1,1 @@
-# tabela-periodica
- 
+A tabela periódica foi desenvolvida em HTML e CSS, para ajudar alunos a procurar sobre elementos químicos
